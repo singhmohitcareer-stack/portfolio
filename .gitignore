@@ -1,0 +1,40 @@
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.json
+*.parquet
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Sensitive data
+*.pem
+*.key
+secrets.yml
+.env
+
+# Output files
+*.log
+*.pdf
+*.png
+*.jpg
